@@ -44,3 +44,6 @@ Is stack full after filling? 1
 
 ## Usage
 You can modify the test.c file to add more test cases or change existing ones to suit your needs. The implementation can be extended further by adding additional features like dynamic resizing or linked list-based stacks.
+
+### Note
+code is refined using AI for better understanding.
